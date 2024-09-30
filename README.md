@@ -25,3 +25,9 @@ git remote add origin URL del repo
 -Collegamento del repo locale sul repo remoto
 
 git push -u origin main
+
+-Cosa fa git clone?
+
+viene utilizzato principalmente per puntare a un repository esistente e creare un clone o una copia di tale repository in una nuova directory, in un'altra posizione.
+
+commando -> git clone URL
